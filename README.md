@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prabhakar</h1>
-<h3 align="center">Knows about software development, analytical skills and data engineering and</h3>
+<h3 align="center">Knows about software development, analytical skills and data engineering </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
